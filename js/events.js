@@ -4,9 +4,11 @@ function getIt() {
     alert("Hey!")
 })}
 function frameIt() {
-  load
+  load add.tasty.class red to frame
 }
-function pressIt() 
+function pressIt() {
+  keydown
+}
 $(document).ready(function(){
 
 // call functions here
