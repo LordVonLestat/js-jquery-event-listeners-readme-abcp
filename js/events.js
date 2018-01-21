@@ -5,11 +5,11 @@ function getIt() {
 })}
 function frameIt() {
   $('img').on('load', function() {
-    frame = 'red';
-    class.tasty
+    frameColor('red')
+    class('tasty')
 }
 function pressIt() {
-  keydown
+  $(keydown
 }
 $(document).ready(function(){
 
