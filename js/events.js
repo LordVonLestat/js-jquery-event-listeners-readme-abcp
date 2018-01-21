@@ -4,7 +4,9 @@ function getIt() {
     alert("Hey!")
 })}
 function frameIt() {
-  load add.tasty.class red to frame
+  $('img').on('load', function() {
+    frame = 'red';
+    class.tasty
 }
 function pressIt() {
   keydown
